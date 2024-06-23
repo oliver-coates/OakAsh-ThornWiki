@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8b335381eb41659d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a0fe32c05bce441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a141c287d0965988",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd38f3cfcd3a2988",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff8346861c5bcb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17465be1485282c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "659b8bc1b94ce514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0d1ee532fdababa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61d7ed2d2f65ec75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b49b7b3210aa9846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f887c91c91730af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0f7f8ddf68b3ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb29ff4528cc201c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fcbb4630d351cb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a141c287d0965988",
+  "lastOpenFiles": [
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Kingdom of Poland.md",
+    "Centurian Republic.md",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Geology/Remnant Fields.md",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Imperial Institute of Brittania.md",
+    "Oak Ash and Thorn Wiki/_Resources/Images/RemantMountaineers.png",
+    "Oak Ash and Thorn Wiki/Technology & Science/Demons/Inquisitions.md",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Geology",
+    "Oak Ash and Thorn Wiki/Technology & Science/Demons/Demons.md",
+    "Oak Ash and Thorn Wiki/Technology & Science/Untitled.canvas",
+    "Oak Ash and Thorn Wiki/Technology & Science/Demons",
+    "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid/Humans.md",
+    "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid/Elves.md",
+    "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid/Orcs.md",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
+    "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid",
+    "Oak Ash and Thorn Wiki/_Resources/Images/BrenGunExperimenting.jpeg",
+    "Oak Ash and Thorn Wiki/_Resources/Images/OxfordUniversityResearchers.jpeg",
+    "Oak Ash and Thorn Wiki/_Resources/Images/ImperialInstitudeLondon.jpeg",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions",
+    "Oak Ash and Thorn Wiki/_Resources/Images/Inquisition At Night.jpg",
+    "Oak Ash and Thorn Wiki/_Resources/Template Notes/Nation Template.md",
+    "Oak Ash and Thorn Wiki/_Resources/Template Notes",
+    "Oak Ash and Thorn Wiki/_Resources/Untitled.md",
+    "Oak Ash and Thorn Wiki/_Resources/Images/Warsaw.jpg",
+    "Oak Ash and Thorn Wiki/_Resources/Images/March on the Danube.jpg",
+    "Oak Ash and Thorn Wiki/Welcome.md",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires",
+    "Oak Ash and Thorn Wiki/Geography, Geopolitics & History",
+    "Oak Ash and Thorn Wiki/Races & Creatures",
+    "Oak Ash and Thorn Wiki/Untitled.md",
+    "Oak Ash and Thorn Wiki/Technology & Science",
+    "Oak Ash and Thorn Wiki/_Resources/Images/Centurian Inquisitor 1.jpg",
+    "Pictures/Centurian Inquisitor 1.jpg"
+  ]
+}
