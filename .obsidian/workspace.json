@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "17afcdafe982b01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a88cbb6e99a57da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a63bdea2b67d5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10fcfa89fe5fedb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "576e6d625f4ea795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a12d8f1bd2ef5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d72c830d742ab1bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d52e5a4de28a9462",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eb9fc8469d68352",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f927a9144b1f95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a5bdc321c0a34f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d88e684198523b82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cef0a832862cefc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6615c73c3b5bd64e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6a63bdea2b67d5e6",
+  "lastOpenFiles": [
+    "^302da3.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Inquisition.jpg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Centurian Inquisitor 1.jpg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/ImperialInstitudeLondon.jpeg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Inquisition At Night.jpg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/March on the Danube.jpg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Kingdom of Poland.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Imperial Institute of Brittania.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Demons.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Inquisitions.md"
+  ]
+}

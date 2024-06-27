@@ -27,8 +27,7 @@ The Imperial Institute is divided into three bodies, known as research institute
     - Demonology
     - Geology
 
-The Imperial Institute also holds the following departments which assist the :
-
+The Imperial Institute also holds the following departments which assist the running of the organisation:
 - **Department of Finance**
 - **Department of Acquisition**
 - **Department of Security**
@@ -37,7 +36,7 @@ The Imperial Institute also holds the following departments which assist the :
 
 The highest elements of the Institute’s decision making comes from the ‘Board of Nine’ governance council. The board consists of 9 positions:
 
-- The Chairman, the figurehead of the organization.
+- The Chairman, the figurehead of the organisation.
 - The Treasurer, representative for finances and the budget.
 - The Chief Inquisitor, the permanent voice of the Inquisition.
 - A representative and vice representative given each research Institute
@@ -46,9 +45,9 @@ Board members are elected to their positions by unanimous vote. The board is als
 
 ## History and Purpose
 
-The Imperial Institute was established in 1821 by a group of influential Brittanian elites, businessmen and politicians. In the decades prior, the Brittanian upper class had become increasingly concerned that the nation may not be able to compete against foreign, government funded research groups emerging in Centuria and the United States. Prior attempts for a solution from His Majesties’ government had been fruitless, given the nature of Brittanian political frugality. By amalgamating a group of researchers from Brittania’s most prestigious Universities under the newly formed Imperial College in London, the Imperial Institute of Brittania was formed.
+The Imperial Institute was established in 1821 by a group of influential Brittanian elites, businessmen and politicians. In the decades prior, the Brittanian upper class had become increasingly concerndepartmented that the nation may not be able to compete against foreign, government funded research groups emerging in Centuria and the United States. Prior attempts for a soludepartmenttion from His Majesties’ government had been fruitless, given the nature of Brittanian political frugality. By amalgamating a group of researchers from Brittania’s most prestigious Universities under the newly formed Imperial College in London, the Imperial Institute of Britannia was formed.
 
-Following its formation, the Institute’s scope was limited to the natural sciences. With the advances in physics and biology in the early 19th Century, the immense scientific utility of exploration became more apparent. In 1845 at the behest of renowned biologist Charles Darwin, the Institute merged with the Cavers Guild of Brittania and several independent exploratory groups, necessitating the division of the organization into 2 separate institutes, the ISI and IED. The newly formed IED would assist Darwin and other biologists on several expeditions into the heart of the Americas.
+Following its formation, the Institute’s scope was limited to the natural sciences. With the advances in physics and biology in the early 19th Century, the immense scientific utility of exploration became more apparent. In 1845 at the behest of renowned biologist Charles Darwin, the Institute merged with the Cavers Guild of Britannia and several independent exploratory groups, necessitating the division of the organisation into 2 separate institutes, the ISI and IED. The newly formed IED would assist Darwin and other biologists on several expeditions into the heart of the Americas.
 
 In 1889, the IAE would be established as the third research institute due to concerns in the Royal Navy that Brittanian engineering technology was being superseded by American and Centurian research efforts. The IAE would initially consist of departments of metallurgy, ballistics and aviation, dedicated to developing naval technology. The innovations made by the IAE would be essential in the construction of the HMS Dreadnought in 1906; serving as good justification for increased funding and expansion of the research institute into its modern form.
 
@@ -60,6 +59,26 @@ In 1889, the IAE would be established as the third research institute due to con
 *Researchers working at the University of Oxford*
 
 The Institute for Scientific Inquiry encompasses research into the natural sciences. Headquartered in Oxford, the ISI cooperates extremely closely with the Universities of Brittania.
+
+## Mathematics
+
+The Department of Mathematics pursues the development of advanced mathematical theories, primarily supporting aeronautics, ballistics and demonology.
+
+## Physics
+
+The Department of Physics focuses on the understanding on the nature of physical matter and how it interacts with its environment. As part of this research, this department studies:
+- Movement of physical bodies
+- Atomic theory
+- The feasibility of splitting an atom to generate power
+- [[Ferrobending]]
+
+## Biology
+
+The Department of Biology studies the natural world and organic life. As part of its research, it 
+
+## Chemistry
+
+The Department of Chemistry 
 
 ***
 
@@ -87,7 +106,7 @@ The world’s most accurate and detailed maps and navigation charts are usually 
 
 ### Department of Geology
 
-The Department of Geology is focused on the science of rocks and minerals, as well as the exploration of [[Remnant Fields]]. Dive teams, consisting of geologists and heavily armed, veteran men-at-arms, are assembled by the department to explore remnant fields. The department also maintains many way-houses throughout Remnant Fields to aid in deeper subterranian exploration. The Department of Geology primarily explores the Yorkshire, Rondane, Cook and Marten Falls Fields, as well as explorations into the Grand Crater.
+The Department of Geology is focused on the science of rocks and minerals, as well as the exploration of [[Remnant Fields]]. Dive teams, consisting of geologists and heavily armed, veteran men-at-arms, are assembled by the department to explore remnant fields. The department also maintains many way-houses throughout Remnant Fields to aid in deeper sub-terranian exploration. The Department of Geology primarily explores the Yorkshire, Rondane, Cook and Marten Falls Fields, as well as explorations into the Grand Crater.
 
 Men-at-arms working for the Geology department are renown specialists at field diving, with each soldier expected to be able to survive days within a Remnant Field without equipment.
 
@@ -96,3 +115,7 @@ The department of Geology has facilitated many valuable scientific breakthroughs
 ### Department of Demonology
 
 Officially, the Department of Demonology does not exist. The Institute will publicly admit to studying small elements the demonic as part the ISI’s Physics and Biology research. The reality is far from this however.
+
+The Department of Demonology operates multiple clandestine laboratories across the colonies, Java Sea region, Antarctica and in the British isles itself. Researchers are secretly recruited from across the institute and sworn to secrecy.
+
+The DOD is kept under strict watch by the Royal Inquisition, who ensures that each research team has an Inquisitor attached. Inquisitors supervising demonic research must give approval for any required tests, and hold the power to redact any conducted research, and in extreme cases, kill the research team.
