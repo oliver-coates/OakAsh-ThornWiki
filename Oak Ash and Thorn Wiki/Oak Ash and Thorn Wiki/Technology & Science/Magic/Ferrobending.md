@@ -5,6 +5,8 @@ Ferrobending is an is a rare innate genetic ability found amongst sentient human
 
 Ferrobending has had significant impact on civilisation, with ferrobenders dominating the battlefield, even after the invention of gunpowder.
 
+Ferrobenders of exceptional ability are known as 'titans', and are destructive forces on the battlefield, capable of turning entire battles and killing thousands in single engagements. 
+
 Ferrobending is considered a magical/demonic phenomena as it breaks thermodynamic and Newtonian laws.
 ***
 ## Laws of Ferrobending
@@ -43,23 +45,18 @@ Faulkner stresses that each task must be completed *"comfortably, and without un
 
 As such, following the completion of the highest difficulty task, the participant must complete a 2 mile run, without fainting due to blood deficiency.
 
-**0 Fauls** - Subject able to cause slight, imprecise distortions in iron. This does not constitute a ferrobender, and is prevalent in ~30% of the population.
+| **Faulkners** | Test                                                                                                                                                                                                                                   | *estimated avg % population* |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 0             | Subject able to cause slight, imprecise distortions in iron. This does not constitute a ferrobender.                                                                                                                                   | 30%                          |
+| 1             | Subject able to manipulate a volume of 15 cm cubed of pure iron into a distinct tool (Dr Faulkner recommends a mallet, a dagger and a screwdriver in his original paper). Passing this test qualifies one officially as a ferrobender. | 2%                           |
+| 2             | Subject able to form a partial steelskin out of pure iron from 50 cm cubed.                                                                                                                                                            | %                            |
+| 3             | Subject able to form a full steelskin out of pure iron of an average thickness no less than !!!!! cm.                                                                                                                                  | %                            |
+| 4             | Subject able to form a full steelskin out of an equal part iron, lead and aluminium alloy of an average thickness no less than !!!!!! cm.                                                                                              | %                            |
+| 5             | Subject able to lift no less than thrice their bodyweight while in steelskin.                                                                                                                                                          | %                            |
+| 6             | Subject able to manipulate two cubic meters of steel.                                                                                                                                                                                  | %                            |
+| 7             | Subject able to manipulate five cubic meters of steel. Passing this test qualifies as titan class                                                                                                                                      | %                            |
+| 8             | Subject able to manipulate ten cubic meters of steel. Passing this test qualified as titan class.                                                                                                                                      | %                            |
 
-**1 Fauls** - Subject able to manipulate a volume of 15 cm cubed of pure iron into a distinct tool (Dr Faulkner recommends a mallet, a dagger and a screwdriver in his original paper). Passing this test qualifies one officially as a ferrobender and is present in ~2% of world populations.
-
-**2 Fauls** - Subject able to form a partial steelskin out of pure iron from 50 cm cubed.
-
-**3 Fauls** - Subject able to form a full steelskin out of pure iron of an average thickness no less than !!!!! cm.
-
-**4 Fauls** - Subject able to form a full steelskin out of an equal part iron, lead and aluminium alloy of an average thickness no less than !!!!!! cm.
-
-**5 Fauls** - Subject able to lift no less than twice their bodyweight while in steelskin.
-
-**6 Fauls** - Subject able to manipulate two cubic meters of steel.
-
-**7 Fauls** - Subject able to manipulate five cubic meters of steel.
-
-**8 Fauls** - Subject able to manipulate ten cubic meters of steel.
 #### Improvement through Practice
 Like with fleshworking, a ferrobender will be able to increase their attunement through the use of their abilities.
 
@@ -73,9 +70,7 @@ The most obvious use of ferrobending is the formation of tools and disruption of
 
 Ferrobenders have the ability to 'melt' locks and fuse other metal components together, like engines or handcuffs.
 ##### Steelskin
-Ferrobenders of 2 Fauls and higher have the ability to meld metal to cover their skin, known as a 'steelskin', providing them with enhanced protection and greater mass.
-
-Modern combat ferrobenders of significant ability are commonly used as assault infantry, capable of charging down machine guns and rifle fire unharmed while within a steelskin.
+Ferrobenders of 2 Fauls and higher have the ability to meld metal to cover their skin, known as a 'steelskin', providing them with enhanced protection and greater mass. Combat ferrobenders of significant ability are commonly used as assault infantry, capable of surviving bullets and shrapnel.
 
 Prior to the invention of gunpowder, ferrobenders needed only to be able to protect themselves against bladed and blunt instruments. Allowing the steelskin to be worn atop of clothes.
 
@@ -84,7 +79,7 @@ In the modern day however, combat ferrobenders require every additional millimet
 Ferrobenders will specifically tailor the blend of metals used in their steelskin to give a good balance of mobility, mass, and protection, while still being sustainable within their ferrobending ability. 
 
 Vision from within a steelskin varies based on the ability of the ferrobender. While keeping close against the skin for the rest of the body, ferrobenders will fashion the metal protecting their heads into different shapes, give greater protection and allowing for external vision. 
-- Lower Faul ferrobenders commonly form their head protection into two planes, one running perpendicular to each cheek, allowing for a slanted horizontal slit to give vision. Similar to a suit of knights armour.
+- Lower Faul ferrobenders commonly form their head protection into two planes, one running perpendicular to each cheek, allowing for a slanted horizontal slit to give vision. Similar to that of knights armour.
 - Higher Faul ferrobenders take artistic license with their head protection, taking its design as a point of pride. The finer control over their metal allows them to have finer slits or grills for vision.
 - Extremely competent ferrobenders will often not need to rely of their own human vision, and will rely entirely upon the sense granted by their controlled metal.
 
@@ -97,12 +92,18 @@ High Faul ferrobenders can be differentiated from lower Faul ferrobenders by the
 - High Faul steelskins, which utilise ferromuscle, appear lean, agile and muscular, the rare sight of which inspiring dread within enemy soldiers.
 
 The significant additional strength provided by ferromuscle gives ferrobenders the ability to life many times their body weight, sprint at speeds comparable to motor vehicles and leap great distances into the air. Controlling the huge weight of the steelskin becomes the primary problem for high Faul ferrobenders.
+
+> *"For twelve hours my section had held our position in that frozen muddy field. The orcs and Brittanians tried 3 times to break us with heavy bombardment and charges. We held, barely, but with each battle their Machine gun teams advanced closer. On the morning of the twelfth, they tried again. This time with tanks. We were long since out of rounds for the can-opener, and so we cowered in the trench, grenades in hand, all praying. As the front tank roared over our trench, the Lord answered our prayer. A terrible groan echoed from the tank as one of our ferrobenders slammed into it. With his weight, and the speed that he was moving, he didn't even need to move the metal. The great steel beast contorted inwards as the man-sized projectile ripped through the front order and out the opposing side. The Brits opened fire almost immediately upon him, and we readied our rifles to support our saviour. Looking over the trench was a tremendous sight. Machine gun fire, illuminated perfectly in the dim Swedish morning, streamed towards the ferrobender from various positions. The rounds glanced off his metal body as he dashed across the field faster than a horse at full gallop. Enemy soldiers would be torn in two, or pulverised by fist or being slammed into. Once the machine guns fell silent, and the tanks were retreating, he returned to our trench. The gleaming metal muscles across his body coated in both mud and man, easily visible beneath the tattered remains of a thick trench coat.*
 ##### Anti-Armour
 Any ferrobender has the potential to deliver significant damage to tanks and other armoured vehicles by tearing holes through armour and compelling metallic mechanical pieces to become inoperable.
 
 A ferrobender of a sufficient ability (Usually 4-5 Fauls) has the ability to crush a tank through the touch of a hand, killing the crew. As such, anti-ferrobending measures, such as a thick zinc coating or wood panelling, are instituted on modern tanks in an attempt to improve tank suitability.
 ##### Tentacles
-Ferrobenders will 
+Titan class ferrobenders are able of utilising the ferromuscle technique in ways which are not similar to human physiology. This is most commonly used to construct 'tentacles' of ferromuscle to assist with movement and destruction of soft targets.
+
+Ferrobenders will commonly construct thin metal cables, the interior consisting of small ferromuscle, and a smooth exterior which they will cease to compel (thereby returning its mass to normal). The internal ferromuscle base is contracted and expanded to flick these cables at intense speed, slicing through soft targets like unarmoured vehicles, vegetation and humans. This technique is used by 
+
+Thicker tentacles are used to assist in movement by ferrobenders, which can be very helpful in urban environments.
 
 ## Prevalence & Geographic Distribution
 
