@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a88cbb6e99a57da7",
+        "id": "ebdd9c5adb358a65",
         "type": "tabs",
         "children": [
           {
-            "id": "6a63bdea2b67d5e6",
+            "id": "85f2592b2fed6a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md"
+                "file": "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a63bdea2b67d5e6",
+  "active": "b7a12d8f1bd2ef5c",
   "lastOpenFiles": [
-    "^302da3.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Inquisitions.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Geology/Remnant Fields.md",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Technical Institutes",
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Technical Institutes/Imperial Institute of Brittania.md",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic/Ferrobending.md",
+    "^302da3.md",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Inquisition.jpg",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Centurian Inquisitor 1.jpg",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/ImperialInstitudeLondon.jpeg",
@@ -158,9 +164,7 @@
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Kingdom of Poland.md",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
-    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Imperial Institute of Brittania.md",
     "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Magic",
-    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Demons.md",
-    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Inquisitions.md"
+    "Oak Ash and Thorn Wiki/Oak Ash and Thorn Wiki/Technology & Science/Demons/Demons.md"
   ]
 }

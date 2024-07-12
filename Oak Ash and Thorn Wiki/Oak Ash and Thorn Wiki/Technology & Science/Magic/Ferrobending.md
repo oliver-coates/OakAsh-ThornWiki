@@ -103,7 +103,7 @@ Titan class ferrobenders are able of utilising the ferromuscle technique in ways
 
 Ferrobenders will commonly construct thin metal cables, the interior consisting of small ferromuscle, and a smooth exterior which they will cease to compel (thereby returning its mass to normal). The internal ferromuscle base is contracted and expanded to flick these cables at intense speed, slicing through soft targets like unarmoured vehicles, vegetation and humans. This technique is used by 
 
-Thicker tentacles are used to assist in movement by ferrobenders, which can be very helpful in urban environments.
+Thicker tentacles are used to assist in movement by ferrobenders, which can be very helpful in urban environments, though effective use is difficult as 
 
 ## Prevalence & Geographic Distribution
 
@@ -118,3 +118,25 @@ During the Dragon Age, prominent ferrobending families would quickly enter the e
 Prior to the invention of gunpowder, high-Faul Ferrobenders were the only weapon capable to kill dragons, and as such were considered highly dangerous.
 
 Ferrobenders born from non-ferrobending parents would be shunned or killed at a young age in an effort to keep subject populations subservient.
+
+High-Faul ferrobenders, primarily ones of titan class, would stand as the figurehead of Human, Elf and Orc sovereignty movements. Many titan class ferrobenders would achieve god-like adoration from populations, and would be the basis for many monarchic bloodlines which would form Human nations following the end of the Dragon age.
+
+## Countering Ferrobenders
+
+Prior to the invention of gunpowder, a ferrobender could only be reliably bested in combat by another ferrobender. Catapults, ballistas and hot oil were rarely successful.
+
+Dragons would attempt to burn a ferrobender alive within their steelskin through their firebreath. Infamous battles of old would consist of dragons raining fire upon a defiant ferrobender, who would be leap into the dragon as it flew in to rain fire.
+
+As the Age of Man begun small swivel cannons, known as 'plate breakers', would soon be developed. Originally only powerful enough to defeat plate armour, these small calibre, horse-draw, swivel cannons quickly grew in size, Allowing entrenched infantry to somewhat resist ferrobender assault. Plate breakers fired round shot from an non-rifled barrel, making them extremely inaccurate. The small cannons would be hand-aimed, made possible by a highly complex and unreliable swivel joint mounted to a wooden cart.
+
+As larger cannons in great numbers entered the battlefield in the mid 1700s, alongside muskets, massed ferrobender assaults found themselves struck by concentrated artillery fire. Subsequently, ferrobenders were forced to be distributed amongst regular line infantry, acting as point-men and officers as they were mostly immune to musket fire.
+
+Small handmade explosives were also found to be partially effective against ferrobenders at this time. Grenades were a favourite of pirates, initially being made by sailors for use in naval boarding actions. The explosive force from grenades can stun, concuss or even kill ferrobenders if lucky, but are mostly ineffective against the thicker steelskins used by high-Faul ferrobenders.
+
+Rifled barrels arrived in Europe in the early 1800s and quickly revolutionised combat. Plate breakers became smaller and more reliable. Designated plate breaker teams, consisting of multiple men carrying a mobile gun and its ammunition were first employed by the Royal Army. These mobile plate breakers could be disassembled and reassembled in minutes, were substantially more accurate and boasted a much faster fire rate through the use of cartridges, rather than powder. These guns allowed Brittanian infantry and marines to reliably hold their own against unsupported ferrobender attacks, provided the requisite time for assembly and entrenchment had been given.
+
+As the 1st Continental war broke out in 1914, industrialised production of military goods allowed the Centurian and Brittanian armies to field man-portable high-calibre breech loading rifles in large number. These anti-ferrobender rifles, known as 'ferro-rifles', 'f-rifles', 'plate-guns' or simply 'can-openers' gave a single infantry man a decent chance at wounding or killing a ferrobender for the first time in history. Unwieldy, unreliable and heavy, high-Faul ferrobenders faced minimal threat. Low-Faul ferrobenders, making up the majority of the Centurian and Brittanian armoured force, faced a new threat. In the summer of 1914, the Centurian Empire faced horrendous ferrobender losses on the Kalmar front as they met the small, but well trained Brittanian Expeditionary Force armed with hundreds of Enfield LAP no. 1s (Enfield armoury, long, armour piercing, 1st model) ferro-rifles.
+
+Ferro-rifles were would be rushed into production alongside machine-guns, as both sides grappled with the changing nature of war.
+
+By 1918, as the Continental war came to a close, the 

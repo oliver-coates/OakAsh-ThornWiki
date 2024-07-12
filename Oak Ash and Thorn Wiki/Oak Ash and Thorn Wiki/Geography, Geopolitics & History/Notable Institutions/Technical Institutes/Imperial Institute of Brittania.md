@@ -45,7 +45,7 @@ Board members are elected to their positions by unanimous vote. The board is als
 
 ## History and Purpose
 
-The Imperial Institute was established in 1821 by a group of influential Brittanian elites, businessmen and politicians. In the decades prior, the Brittanian upper class had become increasingly concerndepartmented that the nation may not be able to compete against foreign, government funded research groups emerging in Centuria and the United States. Prior attempts for a soludepartmenttion from His Majesties’ government had been fruitless, given the nature of Brittanian political frugality. By amalgamating a group of researchers from Brittania’s most prestigious Universities under the newly formed Imperial College in London, the Imperial Institute of Britannia was formed.
+The Imperial Institute was established in 1821 by a group of influential Brittanian elites, businessmen and politicians. In the decades prior, the Brittanian upper class had become increasingly concerned that the nation may not be able to compete against foreign, government funded research groups emerging in Centuria and the United States. Prior attempts for a solution from His Majesties’ government had been fruitless, given the nature of Brittanian political frugality. By amalgamating a group of researchers from Brittania’s most prestigious Universities under the newly formed Imperial College in London, the Imperial Institute of Britannia was formed.
 
 Following its formation, the Institute’s scope was limited to the natural sciences. With the advances in physics and biology in the early 19th Century, the immense scientific utility of exploration became more apparent. In 1845 at the behest of renowned biologist Charles Darwin, the Institute merged with the Cavers Guild of Britannia and several independent exploratory groups, necessitating the division of the organisation into 2 separate institutes, the ISI and IED. The newly formed IED would assist Darwin and other biologists on several expeditions into the heart of the Americas.
 
@@ -58,7 +58,7 @@ In 1889, the IAE would be established as the third research institute due to con
 ![[OxfordUniversityResearchers.jpeg]]
 *Researchers working at the University of Oxford*
 
-The Institute for Scientific Inquiry encompasses research into the natural sciences. Headquartered in Oxford, the ISI cooperates extremely closely with the Universities of Brittania.
+The Institute for Scientific Inquiry encompasses research into the natural sciences. Headquartered in Oxford, the ISI cooperates extremely closely with the Universities of Britannia.
 
 ## Mathematics
 
@@ -74,11 +74,11 @@ The Department of Physics focuses on the understanding on the nature of physical
 
 ## Biology
 
-The Department of Biology studies the natural world and organic life. As part of its research, it 
+The Department of Biology studies the natural world and organic life. As part of its research, it seeks to understand the history and processes of organic life, as well as understand fleshbending under Inquisitorial supervision.
 
 ## Chemistry
 
-The Department of Chemistry 
+The Department of Chemistry seeks to understand the nature of molecules, compounds and materials and their interaction with eachother.
 
 ***
 
@@ -88,6 +88,26 @@ The Department of Chemistry
 *An engineer conducting a test on a prototype barrel for the Bren machine gun at the Dublin small arms laboratory.*
 
 The Institute for Advanced Engineering encompasses research into engineering and technology. Headquartered in Birmingham, the IAE cooperates closely with Brittanian industrial & design capabilities.
+
+## Ballistics
+
+The department of ballistics researches projectiles. This department uses its findings to develop prototype ammunition and weapons for tanks, warships, artillery, aircraft and small arms.
+
+## Materials Science
+
+The department of materials science.
+
+## Electronics
+
+The department of electronics.
+
+## Aviation
+
+The department of aviation.
+
+## Robotics
+
+The department of robotics
 
 ***
 
