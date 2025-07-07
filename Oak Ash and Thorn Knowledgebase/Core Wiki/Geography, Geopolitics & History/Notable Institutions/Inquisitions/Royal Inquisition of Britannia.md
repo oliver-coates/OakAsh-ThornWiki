@@ -29,17 +29,15 @@ The Royal Inquisition staffs a number of tactical groups, which serve as quick r
 
 ##### Notable IAGS:
 
-| **Designation** | **Name** | Insignia | **Specialisation** |
-| --------------- | -------- | -------- | ------------------ |
-| 1st Sheffield   |          |          |                    |
-| 1st London      |          |          |                    |
-| 2nd London      |          |          |                    |
-| 1st Cromwell    |          |          |                    |
-| 2nd Portsmouth  |          |          |                    |
-|                 |          |          |                    |
-|                 |          |          |                    |
-|                 |          |          |                    |
-|                 |          |          |                    |
+| **Designation** | **Name**        | Insignia                           | Motto         |
+| --------------- | --------------- | ---------------------------------- | ------------- |
+| 1st London      | King's Own      |                                    |               |
+| 2nd London      | Genies          | A golden lamp.                     | "Make A Wish" |
+| 3rd London      |                 |                                    |               |
+| 4th London      | Tin-openers     | A shield splintering into 3 parts. | "Open Sesame" |
+| 1st Cromwell    |                 |                                    |               |
+| 1st Portsmouth  | Cloak & Dagger  |                                    |               |
+| 2nd Portsmouth  | Poor Honest Men |                                    |               |
 
 #### Gethsemane Hall
 A

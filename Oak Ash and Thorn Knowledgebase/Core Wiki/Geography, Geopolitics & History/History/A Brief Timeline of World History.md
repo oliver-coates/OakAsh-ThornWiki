@@ -9,9 +9,9 @@ What little information we are able to draw from early man shows highly ritualis
 ##### Early Agriculture
 The discovery of agriculture in Mesopotamia brought a change in human society.
 
-For the first time in known history, static groups of humans could grow meagre crops and begin to develop the first traces of civilisation. Once these small villages and towns learned to trap, feed and eventually domesticate animals for farming, they offered up much of their meat in an attempt to satiate the winged beasts which had terrorised them.
+For the first time in known history, static groups of humans could grow meagre crops and began to develop the first small civilisations. Once these small villages and towns learned to trap, feed and eventually domesticate animals for farming, they offered up much of their meat in an attempt to satiate the winged beasts which had terrorised them.
 ##### Dragon Lords
-This, as Darwin proposed, kick-started an evolutionary arms race among dragons. Lording over, and providing protection to, human tribes provided a far greater and more stable source of calories for Dragons. The ensuing competition amongst Dragons necessitated ever increasing strength, size and intelligence.
+This, as Darwin proposes, kick-started an evolutionary arms race among dragons. Lording over, and providing protection to, human tribes provided a far greater and more stable source of calories for Dragons. The ensuing competition amongst Dragons necessitated ever increasing strength, size and intelligence.
 
 According to the 'evolutionists' - Darwin and his Ilk - It was across this early civilisation period that what we call today as 'Greater Dragons' emerged, adapted for combat and governance from the ancient equivalent of today's 'Lesser Dragons', which are adapted for hunting.
 
@@ -35,21 +35,21 @@ One of the primary duties of the Dragon Lords were to defend their subjects from
 > 	*And none did reply,*
 > *As the City was broken by Midday"*
 > 
-> - *Song of Yelth, Estimated 212 AD*
+> - *Song of Yelth, ~200 AD*
 
-Demon Kings would lord over these peoples, bringing the chaos and degeneration typical with their unrestricted power. Archaeology shows that this was typically short lived, as seen with the Amorites and Cannanites. Civilisations in decay, lorded over by a Demon King, were either invaded or simply dissipated within a few generations due to widespread infertility.
+Demon Kings would lord over these peoples, bringing the chaos and degeneration typical with their unrestricted power. Archaeology shows that this was typically short lived, as seen in the recent discoveries of Amorites and Cannanites ruins within the Levant. Civilisations in decay, lorded over by a Demon King, were either invaded or simply dissipated within a few generations due to widespread infertility and death.
 
 ##### Empires
 As civilisation grew outwards from the Mesopotamia and the Indus valley, Large, continent spanning empires, rose under the rule of the strongest Dragons.
 
 These Empires were typically organised with an emperor, the oldest dragon ruling from the imperial capitol, holding sole reproductive rights. The Dragon's children would be appointed as rulers over the numerous provinces and sub-provinces of the empire, usually in order of seniority.
 
-This hierarchical, familial, imperial rulership would remain for hundreds of years at a time, given their exceptionally long lifespans. When the Emperor became too old or sickly, they would either resign or be forced from the throne by one of their sons. This would typically trigger a period of  turmoil as the strongest members of the imperial family would fight for dominance, splintering parts of the empire into factions. This period of internal war and instability would help to cull the elite classes and secure to the new the loyalty of their chosen faction.
+This hierarchical, familial, imperial rulership would remain for hundreds of years at a time, given their exceptionally long lifespans. When the Emperor became too old or sickly, they would either resign or be forced from the throne by one of their sons. This would typically trigger a period of turmoil as the strongest members of the imperial family would fight for dominance, splintering parts of the empire into factions. This period of internal war and instability would help to cull the elite classes and secure to the new the loyalty of their chosen faction.
 ### Age of Man
 ##### Jesus of Nazareth
 Within the Roman Imperial province of Judea, a Jewish Carpenter, Jesus of Nazareth rose to prominence with reported miracles and revolutionary religious and philosophical teachings.
 
-Jesus broke with the orthodox Jewish religious understanding, expanding their concepts of a singular, omnipresent omnipotent God into a God of 3 persons, with an interest in the life of each and every man and woman. This new branch of Judaism, which would break off into a separate religion entirely, placed extreme emphasis against the worship of both Demons and Dragons.
+Jesus broke with the orthodox Jewish religious understanding, expanding the concept of a singular, omnipresent & omnipotent God into a God of 3 persons, with an interest in the life of each and every man and woman. This new branch of Judaism, which would break off into a separate religion entirely, placed extreme emphasis against the worship of both Demons and Dragons.
 
 Modern historians mark the Crucifixion of the Jesus Christ as the end of the Dragon age, and the beginning of the age of Man. Christianity would spread rapidly through the declining Roman Empire, facing extreme persecution for their resistance to Dragon worship.
 
@@ -58,5 +58,13 @@ Six hundred years following beginning of this new age, another religious leader,
 
 Despite the slaying of hundreds of Dragons and numerous military victories, the death of Muhammad in 632AD would end Muslim expansion. The remaining Dragon Lords would confine Islam to Arabia, unwilling to conquer the now unruly, militant people.
 
-##### Fall of the Dragons
-Ongoing Christian infiltration into
+##### Fall of the Roman Empire
+The Roman Empire, having entered a long period of decline, was destroyed by the Scandinavian dragon Hrolfir, known also as the Great North One, in a series of attacks and incursions from 425 through to 457, when the western portion of the empire fell.
+
+These series of raids, known as the Harrowing of Rome, killed a large part of the Roman imperial family, and forced the remaining dragons to flee south across the Mediterranean, or eastward to Anatolia.
+
+Hrolfir, having subjugated Rome and eliminated any threat to his dominance of euope, established his empire in central Germany and appointed his children to rule over the lands of Scandinavia, Germany and northern Italy.
+
+Following Hrolfir's death in 612, his eldest daughter, Vidigoia peacefully wrestled control over the empire. Consolidated the various Germanic regions under the new name of 'Centuria' - An imperial province encompassing the modern day German, Austrian, Danish, Dutch and Prussian peoples. 
+
+This new 'Centurian Empire', would expand westward after conquering the Franks, Gauls and Bretons of Lotharingia. This new imperial province would be named Anderia, encompassing modern day Belgium, France, and crossing over the eastern Pyrenees of Barcelona.

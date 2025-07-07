@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/History/A Brief Timeline of World History.md",
+                "file": "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Brief Timeline of World History"
+              "title": "Republic of Centuria"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/History/A Brief Timeline of World History.md",
+                "file": "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Brief Timeline of World History"
+              "title": "Backlinks for Republic of Centuria"
             }
           },
           {
@@ -163,16 +164,16 @@
   },
   "active": "5b3f25f0f678078b",
   "lastOpenFiles": [
-    "Oak Ash and Thorn Knowledgebase/Core Wiki/Technology & Science/Magic/Ferrobending.md",
     "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/History/A Brief Timeline of World History.md",
+    "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Notable Institutions/Technical Institutes/Imperial Institute of Brittania.md",
+    "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
+    "Oak Ash and Thorn Knowledgebase/Core Wiki/Technology & Science/Magic/Ferrobending.md",
     "Oak Ash and Thorn Knowledgebase/Core Wiki/Welcome.md",
     "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/History",
     "Oak Ash and Thorn Wiki/_Resources/Images/March on the Danube.jpg.md",
     "Oak Ash and Thorn Wiki/_Resources/Images",
     "Oak Ash and Thorn Wiki/_Resources",
     "Oak Ash and Thorn Wiki",
-    "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Notable Institutions/Technical Institutes/Imperial Institute of Brittania.md",
-    "Oak Ash and Thorn Knowledgebase/Core Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
     "Oak Ash and Thorn Knowledgebase/Java Asunder/Untitled.md",
     "Oak Ash and Thorn Knowledgebase/Java Asunder",
     "Oak Ash and Thorn Knowledgebase/Core Wiki/_Resources/Template Notes/Nation Template.md",
