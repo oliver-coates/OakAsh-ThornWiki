@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0fe32c05bce441",
+        "id": "47e59c6a7855accb",
         "type": "tabs",
         "children": [
           {
-            "id": "a141c287d0965988",
+            "id": "8d0a739f846a26f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Core Wiki/_Resources/Images/Raid_on_Vaagso.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Raid_on_Vaagso"
             }
           }
         ]
@@ -34,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Raid_on_Vaagso"
             }
           },
           {
@@ -97,9 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Raid_on_Vaagso"
             }
           },
           {
@@ -109,8 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Raid_on_Vaagso"
             }
           }
         ]
@@ -138,13 +166,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a141c287d0965988",
+  "active": "8d0a739f846a26f4",
   "lastOpenFiles": [
+    "Core Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Kingdom of Poland.md",
+    "Core Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
+    "Core Wiki/Geography, Geopolitics & History/Notable Institutions/Technical Institutes/Imperial Institute of Brittania.md",
+    "Core Wiki/Geography, Geopolitics & History/Notable Institutions/Inquisitions/Royal Inquisition of Britannia.md",
+    "Core Wiki/_Resources/Images/BrenGunExperimenting.jpeg",
+    "Core Wiki/_Resources/Images/Centurian Inquisitor 1.jpg",
+    "Core Wiki/_Resources/Images/ImperialInstitudeLondon.jpeg",
+    "Core Wiki/_Resources/Images/Inquisition.jpg",
+    "Core Wiki/_Resources/Images/Inquisition At Night.jpg",
+    "Core Wiki/_Resources/Images/March on the Danube.jpg",
+    "Core Wiki/_Resources/Images/OxfordUniversityResearchers.jpeg",
+    "Core Wiki/_Resources/Images/Raid_on_Vaagso.jpg",
+    "Core Wiki/_Resources/Images/RemantMountaineers.png",
+    "Core Wiki/_Resources/Images/Warsaw.jpg",
+    "Core Wiki/Technology & Science/Demons/Inquisitions.md",
+    "Core Wiki/Technology & Science/Demons/Demons.md",
+    "Core Wiki/Geography, Geopolitics & History/Geology/Remnant Fields.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Kingdom of Poland.md",
     "Centurian Republic.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Geology/Remnant Fields.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions/Imperial Institute of Brittania.md",
-    "Oak Ash and Thorn Wiki/_Resources/Images/RemantMountaineers.png",
     "Oak Ash and Thorn Wiki/Technology & Science/Demons/Inquisitions.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Geology",
     "Oak Ash and Thorn Wiki/Technology & Science/Demons/Demons.md",
@@ -155,24 +199,16 @@
     "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid/Orcs.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe/Republic of Centuria.md",
     "Oak Ash and Thorn Wiki/Races & Creatures/Humanoid",
-    "Oak Ash and Thorn Wiki/_Resources/Images/BrenGunExperimenting.jpeg",
-    "Oak Ash and Thorn Wiki/_Resources/Images/OxfordUniversityResearchers.jpeg",
-    "Oak Ash and Thorn Wiki/_Resources/Images/ImperialInstitudeLondon.jpeg",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Notable Institutions",
-    "Oak Ash and Thorn Wiki/_Resources/Images/Inquisition At Night.jpg",
     "Oak Ash and Thorn Wiki/_Resources/Template Notes/Nation Template.md",
     "Oak Ash and Thorn Wiki/_Resources/Template Notes",
     "Oak Ash and Thorn Wiki/_Resources/Untitled.md",
-    "Oak Ash and Thorn Wiki/_Resources/Images/Warsaw.jpg",
-    "Oak Ash and Thorn Wiki/_Resources/Images/March on the Danube.jpg",
     "Oak Ash and Thorn Wiki/Welcome.md",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires/Europe",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History/Nations & Empires",
     "Oak Ash and Thorn Wiki/Geography, Geopolitics & History",
     "Oak Ash and Thorn Wiki/Races & Creatures",
     "Oak Ash and Thorn Wiki/Untitled.md",
-    "Oak Ash and Thorn Wiki/Technology & Science",
-    "Oak Ash and Thorn Wiki/_Resources/Images/Centurian Inquisitor 1.jpg",
-    "Pictures/Centurian Inquisitor 1.jpg"
+    "Oak Ash and Thorn Wiki/Technology & Science"
   ]
 }
