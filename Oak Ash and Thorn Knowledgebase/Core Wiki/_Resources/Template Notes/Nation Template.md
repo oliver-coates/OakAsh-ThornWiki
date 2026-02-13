@@ -20,27 +20,7 @@ Some more history
 Even more history
 
 ***
-## Politics:
-
-> Maybe another cool quote
-
-### Political System:
-What is the political structure of this nation?
-
-### Demographics:
-Who lives in this nation?
-
-### Military:
-Info on this nations military history/strategy/doctrine/weapons etc
+## Additional:
 
 ### Inquisition:
 Info on this nations inquistion.
-
-***
-## Foreign Relations:
-
-### Foreign Nation 1:
-What relation does this nation have to this other nation?
-
-### Foreign Nation2:
-What relation does this nation have to this other nation?

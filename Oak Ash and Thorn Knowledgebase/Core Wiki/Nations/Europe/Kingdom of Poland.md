@@ -54,34 +54,12 @@ From the perspective of the criminal and mercenary groups within the lawless Rus
 
 ## Politics:
 
-### Political System:
-
-What is the political structure of this nation?
-
 ### Demographics
 
 The vast majority of Poland’s citizens are Christian Poles. German, Jewish, and Orc enclaves exist in small pockets across the nation. Relations with these ethnic minorities within Poland is the responsibility of the Monarch. Historic Jewish and Orcish communities were granted special permission to administrate and police their own communities by King Piotr in the first few years of his reign.
 
-### Military
-
-Info about military strategy/doctrine etc
-
 ### Inquisition
+
 Since the formation of Poland as an Imperial province, Poland fell under the protection of the [Imperial Inquisition.](https://www.notion.so/Imperial-Inquisition-Inquisition-in-Exile-9f60900253ec4cfab5df8aa53dd6a017?pvs=21)
 
 In 1919, the Polish Inquisition, officially the Royal Inquisition of Poland, was founded and now serves as the nation’s primary counter demonic institution. The Inquisition was founded in collaboration between the Polish Catholic church and the Royal Inquisition of Brittania. See: [Royal Polish Inquisition](https://www.notion.so/Royal-Polish-Inquisition-50c334c5025940c59a950649e8c13756?pvs=21).
-
----
-
-## Foreign Relations:
-
-### Centuria
-
-Centuria lies to Poland’s west and has maintained a cordial relationship with Poland. Officially, The Republic of Centuria respects the sovereignty and independence of Poland, though the Centurian wish for Imperial reconstruction is all but an open secret.
-
-### Russia
-
-To Poland’s easy lies the Russian state of …
-
-### Brittania
-A
