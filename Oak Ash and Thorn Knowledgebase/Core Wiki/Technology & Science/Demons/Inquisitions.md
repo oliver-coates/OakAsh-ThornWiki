@@ -1,5 +1,5 @@
 
-![[Oak Ash and Thorn Wiki/_Resources/Images/Inquisition At Night.jpg]]
+![[Inquisition At Night.jpg]]
 
 > *“Lord, our heavenly father, 
 > Your servant is listening. 
@@ -16,7 +16,7 @@
 >Lead me, O Lord, to the valley of death.
 >Place me upon your altar”
 >
->- Inquisitor’s prayer, Anonymous
+>- Inquisitor’s prayer
 
 
 From time immemorial, darkness has been driven back by institutions dedicated to mankind. These inquisitions hold immense social and political importance. From mythic tribal warriors, to legendary knights and to modern day gunfighters, Inquisitors, though few in number, are subjects of immense fascination, respect and fear.
